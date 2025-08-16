@@ -1,24 +1,12 @@
-# 🌪️ Tabular Datasets for Analysis of CFD Results from an Industrial Centrifugal Fan
+# 🌀 Tabular Datasets for Analysis of CFD Results from an Industrial Centrifugal Fan
 
 ## 📝 Description
-This repository contains **tabular datasets** from **480 CFD simulations** of an **industrial centrifugal fan** used in oven air recirculation at **5,600 rpm**.  
-A **Central Composite Design (CCD)** within a **Design of Experiments (DOE)** framework varied four blade parameters:  
-- **NB** (Number of Blades)  
-- **BEA** (Blade Entry Angle)  
-- **BOA** (Blade Opening Angle)  
-- **BL** (Blade Length)  
+This repository contains **tabular datasets** generated from **Computational Fluid Dynamics (CFD)** simulations of an **industrial centrifugal fan for ovens**.  
+The data were obtained through a **Design of Experiments (DOE)** using a **Central Composite Design (CCD)** with f4 geometric input factors.
+A total of **480 simulations** were performed in **Ansys** (Workbench,SpaceClaim, Fluent Meshing, Fluent, CFD-Post), producing **35 output variables** including pressures, velocities, turbulence metrics, torque, mass flow rate, blade mass, material cost, and a performance index.  
+The dataset is intended for **statistical analysis, response surface modeling, sensitivity studies, optimization, and Machine Learning (ML) applications**.  
 
-Simulations were carried out in **Ansys®** (SpaceClaim, Fluent Meshing, Fluent, CFD-Post).  
-The dataset provides **35 output variables** (pressures, velocities, turbulence metrics, torque, mass flow rate, material cost, performance index).  
-It serves as a **benchmark** for statistical analysis, design optimization, sensitivity studies, and Machine Learning applications.
-
-
-## 🛠️ How to Use
-1. Clone or download this repository.  
-2. Open `.csv` files with **Python (pandas)**, **R**, or **Excel**.  Open '.csv' files with **Python (pandas)**, **R**, **Microsoft Excel**, **Google Sheets**, or other software .
-3. Use `fan_abbreviation.csv` to interpret variable codes.
-4. Use **`fan_doe.csv`** to understand the **Design of Experiments** (Central Composite Design, coded/decoded input variables).  
-5. Use **`fan_responses.csv`** as the **main dataset** with 480 runs and all 4 input, and 35 output variables.  
+**Note:** The main focus of this repository is on the **dataset**.
 
 ---
 
@@ -26,7 +14,16 @@ It serves as a **benchmark** for statistical analysis, design optimization, sens
 
 This repository is part of the research study:
 
--  *(The dataset is from this work. Manuscript currently under review)*
+-  *Manuscript currently under peer review*
+
+---
+
+## 🛠️ How to Use
+1. Clone or download this repository.  
+2. Open '.csv' files with **Python (pandas)**, **R**, **Microsoft Excel**, **Google Sheets**, or other software .
+3. Use **`fan_abbreviation.csv`** to interpret variable codes.
+4. Use **`fan_doe.csv`** to understand the **Design of Experiments** (Central Composite Design, coded/decoded input variables).  
+5. Use **`fan_responses.csv`** as the **main dataset** with 480 runs and all 4 input, and 35 output variables.  
 
 ---
 
@@ -36,7 +33,7 @@ This repository is part of the research study:
 |------|-------------|
 | [**README.md**](README.md) | Documentation of the dataset and repository usage. |
 | [**fan_doe.csv**](fan_doe.csv) | Central Composite Design (CCD) with coded and decoded input variables. |
-| [**fan_responses.csv**](fan_responses.csv) | Main dataset with 480 simulations (4 input variables + 35 output variables). |
+| [**fan_responses.csv**](fan_responses.csv) | Main dataset with 480 simulations (4 input variables, and 35 output variables). |
 | [**fan_abbreviation.csv**](fan_abbreviation.csv) | Mapping of abbreviations to full variable names and respective units. |
 
 ---
