@@ -1,0 +1,40 @@
+﻿Variable,Abbreviation,Unit
+Number of Blades,NB,adm
+Blade Entry Angle,BEA,º
+Blade Opening Angle,BOA,º
+Blade Length,BL,mm
+Blade Mass,BM,kg
+Mass Flow Rate,MFR,kg/s
+Torque,T,N·m
+Performance Index,PI,adm
+Material Cost,MC,USD
+Static Pressure Minimum,SP_min,Pa
+Static Pressure Mean,SP_mean,Pa
+Static Pressure Maximum,SP_max,Pa
+Dynamic Pressure Minimum,DP_min,Pa
+Dynamic Pressure Mean,DP_mean,Pa
+Dynamic Pressure Maximum,DP_max,Pa
+Total Pressure Minimum,TP_min,Pa
+Total Pressure Mean,TP_mean,Pa
+Total Pressure Maximum,TP_max,Pa
+Velocity Magnitude Mean,VMAG_mean,m/s
+Velocity Magnitude Maximum,VMAG_max,m/s
+Axial Velocity Minimum,AV_min,m/s
+Axial Velocity Mean,AV_mean,m/s
+Axial Velocity Maximum,AV_max,m/s
+Radial Velocity Minimum,RV_min,m/s
+Radial Velocity Mean,RV_mean,m/s
+Radial Velocity Maximum,RV_max,m/s
+Tangential Velocity Minimum,TV_min,m/s
+Tangential Velocity Mean,TV_mean,m/s
+Tangential Velocity Maximum,TV_max,m/s
+Turbulent Kinetic Energy Minimum,k_min,m²/s²
+Turbulent Dissipation Rate ε Minimum,eps_min,m²/s³
+Turbulent  Dissipation Rate ε Mean,eps_mean,m²/s³
+Turbulent  Dissipation Rate ε Maximum,eps_max,m²/s³
+Turbulent  Dissipation Rate ω Minimum,omega_min,1/s
+Turbulent  Dissipation Rate ω Maximum,omega_max,1/s
+Turbulent Reynolds Number Minimum,Re_min,adm
+Turbulent Reynolds Number Mean,Re_mean,adm
+Large Eddy Simulation Resolution Estimate Mean,LES_mean,adm
+Large Eddy Simulation Resolution Estimate Maximum,LES_max,adm
