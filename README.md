@@ -6,8 +6,8 @@ This repository contains **tabular datasets** generated from **Computational Flu
 The data were obtained through a **Design of Experiments (DOE)** using a **Central Composite Design (CCD)** with **4 geometric input factors**.
 
 A total of **480 simulations** were performed in **Ansys** (Workbench, SpaceClaim, Fluent Meshing, Fluent, CFD-Post), producing **35 output variables** including pressures, velocities, turbulence metrics, torque, mass flow rate, blade mass, material cost, and a performance index.  
-
-The dataset is intended for **Statistical Analysis, Response Surface Modeling, Sensitivity Studies, Multiobjetive Optimization, and Machine Learning (ML) applications**.  
+ 
+The dataset is intended for **Statistical Analysis, Response Surface Modeling, Sensitivity Studies, Multiobjetive Optimization (MO), and Machine Learning (ML) applications**.  
 
 **Note:** The main focus of this repository is on the **dataset**.
 
