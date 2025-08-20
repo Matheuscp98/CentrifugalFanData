@@ -113,10 +113,19 @@ This repository is part of the research study:
 
 ## 📬 Contact
 
-<a href="mailto:matheusc_pereira@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail"/></a>
-<a href="https://www.linkedin.com/in/matheuscostapereira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://lattes.cnpq.br/7025666927284220"><img src="https://img.shields.io/badge/Lattes-4169E1?style=for-the-badge&logoColor=white" alt="Lattes"/></a>
-<a href="https://scholar.google.com.br/citations?user=1iDBIzYAAAAJ&hl=en-us"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="mailto:matheusc_pereira@hotmail.com">
+  <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logoColor=white&labelColor=0078D4&color=0078D4&logoWidth=20&logo=https://static.vecteezy.com/system/resources/thumbnails/014/440/980/small_2x/email-message-icon-design-in-blue-circle-png.png" alt="E-mail"/>
+</a>
+<a href="https://www.linkedin.com/in/matheuscostapereira/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=0A66C2&color=0A66C2&logoWidth=20&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn"/>
+</a>
+<a href="https://lattes.cnpq.br/7025666927284220">
+  <img src="https://img.shields.io/badge/Lattes-4169E1?style=for-the-badge&logoColor=white&labelColor=4169E1&color=4169E1&logoWidth=20&logo=https://www.gov.br/inpa/pt-br/inovacao/imagens/icons/lattes.png/@@images/image.png" alt="Lattes"/>
+</a>
+<a href="https://scholar.google.com.br/citations?user=1iDBIzYAAAAJ&hl=en-us">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logoColor=white&labelColor=4285F4&color=4285F4&logoWidth=20&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Google Scholar"/>
+</a>
+
 
 ---
 
