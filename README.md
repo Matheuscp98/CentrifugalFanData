@@ -1,5 +1,9 @@
 # 🌀 Tabular Datasets for Analysis of Computational Fluid Dynamics Results from an Industrial Centrifugal Fan
 
+**DOI:** [10.5281/zenodo.17438392](https://doi.org/10.5281/zenodo.17438392)
+
+---
+
 ## 📝 Description
 This repository contains **tabular datasets** generated from **Computational Fluid Dynamics (CFD)** simulations of an **industrial centrifugal fan for ovens**. 
 
@@ -108,6 +112,12 @@ This repository is part of the research study:
 **Large Eddy Simulation Resolution:**  
 - `LES_mean`: Mean LES Resolution Estimate (adm)
 - `LES_max`: Maximum LES Resolution Estimate (adm)
+
+---
+
+## License
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
