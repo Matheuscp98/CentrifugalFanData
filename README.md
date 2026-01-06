@@ -19,9 +19,10 @@ The dataset is intended for **Statistical Analysis, Response Surface Modeling, S
 
 ## 📚 Publications
 
-This repository is part of the research study:
+In addition to ongoing manuscripts, the following public papers are already available:
 
--  *Manuscript currently under peer review*
+- **Dataset for analysis of computational fluid dynamics results from an industrial centrifugal fan**  
+  [Read here](https://www.sciencedirect.com/science/article/pii/S2352340925009904) 
 
 ---
 
