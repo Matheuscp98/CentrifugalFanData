@@ -116,7 +116,7 @@ In addition to ongoing manuscripts, the following public papers are already avai
 
 ---
 
-## License
+## 📜 License
 This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
 See the [LICENSE](LICENSE) file for details.
 
